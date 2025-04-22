@@ -1,6 +1,6 @@
-# SoW Classic Map Visualizer
+# SOW Classic Mapper
 
-An interactive map visualizer for SoW Classic that displays terrain types, user bases, and provides various navigation tools.
+An interactive map visualizer for SOW Classic that displays terrain types, user bases, and provides various navigation tools.
 
 ## Features
 
