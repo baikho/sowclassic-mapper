@@ -70,6 +70,10 @@ An interactive map visualizer for SOW Classic that displays terrain types, user 
 
 The latest version of the map is available at: [https://baikho.github.io/sowclassic-mapper/](https://baikho.github.io/sowclassic-mapper/)
 
+## Screenshots
+
+![SOW Classic Mapper](https://github.com/user-attachments/assets/65a5ce2d-690b-4480-8bda-a5b9d91fc8eb)
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
